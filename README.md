@@ -1,7 +1,5 @@
 # Content-Based-Movie-Recommendation-System
 Content movie recommendation system using machine learning (scikit-learn)
-![image](https://user-images.githubusercontent.com/104161233/177312043-a5bdfcb4-4973-4e8c-a05a-184b7c7b1d90.png)
-
 
 ## Overview:
 We are going to build a model that takes a movie title as an input and output a list of the 5 most similar movies. Firstly, for this we need a mechanism to identify the index of a movie in our metadata DataFrame, given its title.
@@ -23,4 +21,7 @@ Mathematically, it measures the cosine of the angle between two vectors projecte
 It is a numerical value, ranges between 0 to 1 which helps to determine how much two items are similar or close to each other on a scale of 0 to 1. This similarity score is obtained by measuring the similarity between the text details of both of the items.
 
 ![image](https://user-images.githubusercontent.com/104161233/176416592-56b82538-b568-4281-89e4-105d92629f98.png)
+
+## Conclusion:
+In this movie recommendation system, we build a recommender model while taking the inputs of the user and recommended 5 similar movies.
 
