@@ -20,7 +20,9 @@ Mathematically, it measures the cosine of the angle between two vectors projecte
 
 It is a numerical value, ranges between 0 to 1 which helps to determine how much two items are similar or close to each other on a scale of 0 to 1. This similarity score is obtained by measuring the similarity between the text details of both of the items.
 
-![image](https://user-images.githubusercontent.com/104161233/176416592-56b82538-b568-4281-89e4-105d92629f98.png)
+![image](https://user-images.githubusercontent.com/104161233/178241828-5661c990-4a6d-4e19-99c6-e3eafb51ec9d.png)
+
+More about Cosine Similarity : [Understanding the Math behind Cosine Similarity](https://www.machinelearningplus.com/nlp/cosine-similarity/)
 
 ## Conclusion:
 In this movie recommendation system, we build a recommender model while taking the inputs of the user and recommended 5 similar movies.
